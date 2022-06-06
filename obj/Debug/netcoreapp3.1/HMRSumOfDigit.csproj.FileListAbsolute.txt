@@ -1,0 +1,13 @@
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\bin\Debug\netcoreapp3.1\HMRSumOfDigit.exe
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\bin\Debug\netcoreapp3.1\HMRSumOfDigit.deps.json
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\bin\Debug\netcoreapp3.1\HMRSumOfDigit.runtimeconfig.json
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\bin\Debug\netcoreapp3.1\HMRSumOfDigit.runtimeconfig.dev.json
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\bin\Debug\netcoreapp3.1\HMRSumOfDigit.dll
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\bin\Debug\netcoreapp3.1\HMRSumOfDigit.pdb
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.AssemblyInfo.cs
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.dll
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.pdb
+C:\Users\Я\source\repos\recursion\HMRSumOfDigit\obj\Debug\netcoreapp3.1\HMRSumOfDigit.genruntimeconfig.cache
